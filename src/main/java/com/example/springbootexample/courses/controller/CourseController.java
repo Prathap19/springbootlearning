@@ -16,7 +16,7 @@ public class CourseController {
 	//http:localhost:8080/study
 	@GetMapping("/study")
 	public List<Course> getAllSubjects(){
-		return Arrays.asList(new Course(1, "Machine learning", "in1semester"));
+		return Arrays.asList(new Course(1, "Machine learnng", "in1semester"));
 		
 	}
 
