@@ -11,8 +11,8 @@ public class PrathapApplication {
 	public String sayhelloworld() {
 		return "Greetings from Spring Boot!";
 	}
-
 }
+
 
 
 
